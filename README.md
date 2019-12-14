@@ -11,9 +11,10 @@
 *	Len Smith
 
 ## Project Name:
-*	PaseoGo: International Travel Information
+*	paseoGO: International Travel Information
 
 ## Project Description:
+_Subject to Change_
 *	User enters an international location and start/end dates
 *	We display (below likely to be pruned): 
   * Current currency exchange rates (USD to/from local)
@@ -24,6 +25,7 @@
   * Local holidays during visit
 
 ## APIs that you plan to use:
+_Subject to Change_
 * [ExchangeRate-API](https://www.exchangerate-api.com/): Free currency conversion
 * [Calendar Index](https://www.calendarindex.com/): Worldwide Holidays and Working Days
 * [Currents](https://currentsapi.services/): Latest news published in various news sources, blogs and forums (or NYT API)
