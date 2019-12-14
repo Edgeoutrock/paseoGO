@@ -24,11 +24,10 @@ Group Project #01
   * Local holidays during visit
 
 ## APIs that you plan to use:
-* ExchangeRate-API: Free currency conversion
-* [ExchangeRate-API:](https://www.exchangerate-api.com/): Free currency conversion
-* Calendar Index: Worldwide Holidays and Working Days
-* Currents: Latest news published in various news sources, blogs and forums (or NYT API)
-*	Pexels: Free Stock Photos and Videos (or similar image delivery API)
+* [ExchangeRate-API](https://www.exchangerate-api.com/): Free currency conversion
+* [Calendar Index](https://www.calendarindex.com/): Worldwide Holidays and Working Days
+* [Currents](https://currentsapi.services/): Latest news published in various news sources, blogs and forums (or NYT API)
+* [Pexels](https://www.pexels.com/api/): Free Stock Photos and Videos (or similar image delivery API)
 *	API to show local tourist attractions
 
 ## Wireframe / Sketch: 
