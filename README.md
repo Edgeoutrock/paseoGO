@@ -1,5 +1,5 @@
 # paseoGO: International Travel Information
-# Group Project #01
+Group Project #01
 
 ## Project Team Name: 
 *	SleepMode
