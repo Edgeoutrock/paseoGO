@@ -1,17 +1,34 @@
 # Travel Info
 Group Project #01
-*Team:* The Where's Waldos
 
+## Project Team Name: 
+*	SleepMode
 
-##World Travel Info##
+## List of Team Members:
+*	Miasia Marshall
+*	Alex Phan
+*	Kyle Johnson
+*	Len Smith
 
-* Enter/Select country & city to visit & start/end dates
+## Project Name:
+*	PaseoGo: International Travel Information
 
-##Get back [maybe]:##
+## Project Description:
+*	User enters an international location and start/end dates
+*	We display (below likely to be pruned): 
+** Current currency exchange rates (USD to/from local)
+** Current local news articles (<= 10 articles)
+** Basic phrase converter to local language (where applicable)
+** Sample pictures of location
+** Places to visit in location
+** Local holidays during visit
 
-* Current currency exchange rates (USD to/from local)
-* current news (10 articles)
-* basic phrase converter to local language (?with pronunciation guide)
-* Sample pictures
-* Places to visit
-* Local holidays during visit
+## APIs that you plan to use:
+* ExchangeRate-API: Free currency conversion
+* Calendar Index: Worldwide Holidays and Working Days
+* Currents: Latest news published in various news sources, blogs and forums (or NYT API)
+*	Pexels: Free Stock Photos and Videos (or similar image delivery API)
+*	API to show local tourist attractions
+
+## Wireframe / Sketch: 
+TBD
