@@ -1,12 +1,13 @@
 # Travel Info
 Group Project #01
+*Team:* The Where's Waldos
 
 
-World Travel Info
+##World Travel Info##
 
 * Enter/Select country & city to visit & start/end dates
 
-Get back [maybe]:
+##Get back [maybe]:##
 
 * Current currency exchange rates (USD to/from local)
 * current news (10 articles)
