@@ -25,7 +25,7 @@ Group Project #01
 
 ## APIs that you plan to use:
 * ExchangeRate-API: Free currency conversion
-* [Named Link](http://www.google.fr/ "ExchangeRate-API:"): Free currency conversion
+* [ExchangeRate-API:](https://www.exchangerate-api.com/): Free currency conversion
 * Calendar Index: Worldwide Holidays and Working Days
 * Currents: Latest news published in various news sources, blogs and forums (or NYT API)
 *	Pexels: Free Stock Photos and Videos (or similar image delivery API)
