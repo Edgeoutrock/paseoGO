@@ -239,12 +239,11 @@ select.tm-select::-ms-expand { display: none; }
   height: 100px;
 }
 
-.tm-pt-5 { padding-top: 150px; }
-.tm-pb-4 { padding-bottom: 100px; }
+.tm-pb-4 { padding-bottom: 50px; }
 
 .tm-section-2 {
 	background: #ee5057;
-	padding-top: 50px;
+	padding: 20px;
 	position: relative;
 }
 
