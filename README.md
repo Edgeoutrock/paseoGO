@@ -17,12 +17,12 @@ Group Project #01
 _Subject to Change_
 *	User enters an international location and start/end dates
 *	We display (below likely to be pruned): 
-  * Current currency exchange rates (USD to/from local)
-  * Current local news articles (<= 10 articles)
-  * Basic phrase converter to local language (where applicable)
-  * Sample pictures of location
-  * Places to visit in location
-  * Local holidays during visit
+    * Current currency exchange rates (USD to/from local)
+    * Current local news articles (<= 10 articles)
+    * Basic phrase converter to local language (where applicable)
+    * Sample pictures of location
+    * Places to visit in location
+    * Local holidays during visit
 
 ## APIs that you plan to use:
 _Subject to Change_
