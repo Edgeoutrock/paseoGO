@@ -5,9 +5,9 @@ Group Project #01
 *	SleepMode
 
 ## List of Team Members:
+*	Kyle Johnson
 *	Miasia Marshall
 *	Alex Phan
-*	Kyle Johnson
 *	Len Smith
 
 ## Project Name:
