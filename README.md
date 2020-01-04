@@ -5,32 +5,27 @@ Group Project #01
 *	SleepMode
 
 ## List of Team Members:
-*	Kyle Johnson
-*	Miasia Marshall
-*	Alex Phan
-*	Len Smith
+*	__Miasia Marshall:__ HTML, CSS, and related
+*	__Alex Phan:__ Scripting (Currency Converter; Local News)
+*	__Len Smith:__ Scripting (Location filter; Local holidays)
 
 ## Project Name:
 *	paseoGO: International Travel Information
 
 ## Project Description:
-_Subject to Change_
 *	User enters an international location and start/end dates
-*	We display (below likely to be pruned): 
-    * Current currency exchange rates (USD to/from local)
+*	We display: 
+    * Local holidays occuring during visit
+    * Current currency exchange rates (to/from selected currencies)
     * Current local news articles (<= 10 articles)
-    * Basic phrase converter to local language (where applicable)
-    * Sample pictures of location
-    * Places to visit in location
-    * Local holidays during visit
+    * Sample pictures from location (TBDev)
 
 ## APIs that you plan to use:
 _Subject to Change_
 * [ExchangeRate-API](https://www.exchangerate-api.com/): Free currency conversion
-* [Calendar Index](https://www.calendarindex.com/): Worldwide Holidays and Working Days
-* [Currents](https://currentsapi.services/): Latest news published in various news sources, blogs and forums (or NYT API)
-* [Pexels](https://www.pexels.com/api/): Free Stock Photos and Videos (or similar image delivery API)
-*	API to show local tourist attractions
+* [Calendarific](https://calendarific.com/api-documentation/): Worldwide Holidays and Events
+* [Currents](https://currentsapi.services/): Latest news published in various news sources, blogs and forums
+* [Pexels](https://www.pexels.com/api/): Free Stock Photos and Videos (TBDev)
 
 ## Wireframe / Sketch: 
-TBD
+Our initial [mockup of the Search page](https://user-images.githubusercontent.com/56411646/71222045-e4f93000-229c-11ea-99a2-e95c1dd87814.png) is on GitHub

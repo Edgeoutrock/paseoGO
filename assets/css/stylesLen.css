@@ -1,0 +1,16 @@
+#listLocations {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    border: solid 1px #ccc;
+    list-style: none;
+    margin: 2px 0 0 0;
+    overflow: auto;
+    padding: 5px;
+    font-size: 11px;
+}
+
+.count-message {
+    color: #999;
+    text-align: right;
+    font-style: italic;
+    font-size: 10px;
+}
