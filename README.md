@@ -5,9 +5,9 @@ Group Project #01
 *	SleepMode
 
 ## List of Team Members:
-*	__Miasia Marshall:__ HTML, CSS, and related
+*	__Miasia Marshall:__ HTML, CSS, and related. Presentation slide deck
 *	__Alex Phan:__ Scripting (Currency Converter; Local News)
-*	__Len Smith:__ Scripting (Location filter; Local holidays)
+*	__Len Smith:__ Scripting (Location filter; Local holidays). Presentation slide deck
 
 ## Project Name:
 *	paseoGO: International Travel Information
@@ -19,6 +19,7 @@ Group Project #01
     * Current currency exchange rates (to/from selected currencies)
     * Current local news articles (<= 10 articles)
     * Sample pictures from location (TBDev)
+* [Project Presentation](https://docs.google.com/presentation/d/153-asJ-DRu1eLjprJp1zDqXwF-Pz7V4P7TH_0ka_XF0/edit?usp=sharing)
 
 ## APIs that you plan to use:
 _Subject to Change_
