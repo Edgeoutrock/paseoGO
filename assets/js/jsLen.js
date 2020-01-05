@@ -102,6 +102,7 @@ function filterLocation(locationList) {
                     selectedCity = event.target.id;
                     console.log("selectedCity: " + selectedCity);
                     getHolidays(selectedCity, "05/01/2020", "05/31/2020");
+                    displayNewsStories(selectedCity);
                 });
             });
         }
