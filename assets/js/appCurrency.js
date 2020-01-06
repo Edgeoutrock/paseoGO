@@ -6,9 +6,9 @@ $(document).ready(function () {
         var currencyCode = $(".currency-selector").val();
         var currencyCode1 = $(".currency-selector1").val();
         var $convertCurrency = $("#artCity0").val();
+
         var createArt0 = "https://api.exchangerate-api.com/v4/latest/" + currencyCode;
         var cityName0 = $("<li>" + currencyCode + " converted to " + currencyCode1 + "</li>");
-
         $("#searchedCities0").append(cityName0);
 
         $.ajax({
@@ -17,8 +17,6 @@ $(document).ready(function () {
             method: "GET",
             dataType: "json"
         }).then(function (weatherPoint0) {
-            console.log(weatherPoint0);
-
             var $spanAppend0 = $("#Riches0");
             var $titleH4 = $("h4");
             /* ATP this is right work for one card to all cards 
@@ -33,6 +31,7 @@ $(document).ready(function () {
 
                 return "returned is now " + result;
             };
+
             $spanAppend0.each(function (i) {
                 $(this).text(weatherPoint0.rates[currencyCode1] + " " + currencyCode1 + " is equivalent to 1 " + currencyCode + " and  " + currencyCode1 + " " + conversionCur($convertCurrency));
             });
