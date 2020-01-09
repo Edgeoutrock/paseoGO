@@ -30,3 +30,6 @@ _Subject to Change_
 
 ## Wireframe / Sketch: 
 Our initial [mockup of the Search page](https://user-images.githubusercontent.com/56411646/71222045-e4f93000-229c-11ea-99a2-e95c1dd87814.png) is on GitHub
+
+## Link to the deployed website
+https://mrlensmith.github.io/paseoGO
